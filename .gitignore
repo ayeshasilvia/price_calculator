@@ -22,6 +22,8 @@ __pycache__/*
 # Package files
 *.egg
 *.eggs/
+*.pytest_cache
+*.pytest_cache/
 .installed.cfg
 *.egg-info
 
