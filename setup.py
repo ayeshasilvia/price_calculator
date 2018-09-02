@@ -14,9 +14,7 @@ from setuptools import setup
 # Add here console scripts and other entry points in ini-style format
 entry_points = """
 [console_scripts]
-# script_name = price_calculator.module:function
-# For example:
-# fibonacci = price_calculator.skeleton:run
+calculate_price = price_calculator.calculate:main
 """
 
 
