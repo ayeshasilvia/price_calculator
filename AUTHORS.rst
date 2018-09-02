@@ -2,4 +2,4 @@
 Contributors
 ============
 
-* Ayesha Mosaddeque <ayesha.mosaddeque@intelematics.com>
+* Ayesha Mosaddeque <ayeshasilvia@gmail.com>
